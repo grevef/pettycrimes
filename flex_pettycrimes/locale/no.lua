@@ -1,4 +1,4 @@
-if Config.Lang == 'en' then
+if Config.Lang == 'no' then
     Language = {
         success = {
             blackouthack = 'Strømboksen er deaktivert',
